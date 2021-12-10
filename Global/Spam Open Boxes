@@ -11,9 +11,9 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             }
         }),
         price = ({
-            spooky: 25,
-            aquatic: 25,
-            bot: 20,
+            blizzard: 1,
+            aquatic: 1,
+            bot: 1,
             space: 20,
             breakfast: 15,
             medieval: 15,
